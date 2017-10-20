@@ -1,4 +1,6 @@
-# GearShareApp
+# GearShare
+
+App too inventory equiptment that might be shared in a collaborative music-making environment. This was created to familiarize myself with the new verison of Angular and Microsoft Visual Code.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.8.
 
